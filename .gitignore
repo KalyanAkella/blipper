@@ -1,0 +1,21 @@
+#ignore thumbnails created by mac and windows
+Thumbs.db
+*.DS_Store
+*.swp
+*.out
+
+#Java project
+*.class
+war
+dist
+out
+
+#Android
+gen
+local.properties
+bin
+
+#Intellij Idea files
+*.iml
+.idea
+
