@@ -3,5 +3,7 @@
 
     <string name="app_name">Blipper</string>
     <string name="hello_world">Hello world!</string>
+    <string name="sign_out_text">Sign out</string>
+    <string name="blipper_title">Welcome to Blipper</string>
 
 </resources>
